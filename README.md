@@ -1,2 +1,2 @@
 # Jenkins-CICT
-for test my CICT system
+Test my CICT system
